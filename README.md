@@ -2,7 +2,9 @@
 
 ## Índice
 
-* [Descripción del proyecto](https://github.com/DarenCondoriLima/Converor-de-monedas-y-temperatura/edit/main/README.md#descripci%C3%B3n-del-proyecto)
+* [Descripción del proyecto](#descripción-del-proyecto)
+* [Funcionalidad y Ejecución](#funcionalidad-y-ejecución)
+* [Herramientas utilizadas](#herramientas-utilizadas)
 
 ## **Descripción del proyecto**
 
