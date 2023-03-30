@@ -2,7 +2,7 @@
 
 ##Índice
 
-*[Descripción del proyecto](## **Descripción del proyecto**)
+*[Descripción del proyecto](##-**Descripción-del-proyecto**)
 
 ## **Descripción del proyecto**
 
